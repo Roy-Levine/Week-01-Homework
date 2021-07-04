@@ -1,1 +1,2 @@
-# Week-01-Homework.   Resubmitted due to errors in initial git push.
+# Homework-Week-One-Again
+First attempt at git did not work
