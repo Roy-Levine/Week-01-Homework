@@ -1,8 +1,4 @@
-* 
-@media screen {
-    
-}
-
+*
 {
     box-sizing: border-box;
     padding: 0;
@@ -57,11 +53,12 @@ body {
 
 .hero {
     height: 800px;
-    width: auto;
+    width: 1900px;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    display: block;
 }
 
 .content {
