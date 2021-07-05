@@ -15,6 +15,7 @@ p {
 }
 body {
     background-color: #d9dcd6;
+    display: 100%;
 }
 
 .header {
