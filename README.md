@@ -13,3 +13,7 @@ re-ordered stylesheet contents to make them flow with the html.
 added alt description on url sourced in the CSS.  Not sure whether this worked.
 
 attempted to move background (hero) image from CSS to html, for accessability purposes. Caused problems that I should have been able to fix but could not - so it remained unchanged.
+
+Intermittent commits were flailing exercises in getting the site to load right on the url and are not worth mentioning.
+
+on seventh commit, I pulled the background image out of the CSS for two reason.  Firstly, I could not put an alt label on the image in CSS.  Secondly, the image's native dimensions may have effected its display in the URL via github.  We shall see.
