@@ -16,4 +16,4 @@ attempted to move background (hero) image from CSS to html, for accessability pu
 
 Intermittent commits were flailing exercises in getting the site to load right on the url and are not worth mentioning.
 
-on seventh commit, I pulled the background image out of the CSS for two reason.  Firstly, I could not put an alt label on the image in CSS.  Secondly, the image's native dimensions may have effected its display in the URL via github.  We shall see.
+on seventh commit, I pulled the background image out of the CSS for two reason.  Firstly, I could not put an alt label on the image in CSS.  Secondly, the image's native dimensions may have effected its display in the URL via github.  (see lines 13 -15).  We shall see.  (Afternote, I failed to fix the screen display issue in the url, but did put an accessible descriptor in the only image not prevoiusly addressed.  Throwin in the towel! 
